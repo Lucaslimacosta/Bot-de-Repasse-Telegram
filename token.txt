@@ -1,0 +1,11 @@
+SUBSTIUTUA OS DADOS NECESSÁRIOS FORNECIDO PELO TELEGRAM AO SEU BOT:
+token : 
+
+
+link : 
+
+id_grupo : 
+
+api_id : 
+
+api_hash : 
